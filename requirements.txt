@@ -1,0 +1,20 @@
+###### Requirements without Version Specifiers ######
+pandas
+torch
+llama-index
+langchain
+transformers
+tokenizers
+sentence-transformers
+cohere
+umap-learn
+altair
+annoy
+datasets
+tqdm
+matplotlib
+chromadb
+scikit-learn
+
+###### Requirements with Version Specifiers ######
+# sentence-transformers==2.2.2
